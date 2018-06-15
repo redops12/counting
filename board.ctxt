@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=board
+comment1.params=diff
+comment1.target=board(Difficulty)
+comment2.params=
+comment2.target=void\ endGame()
+comment3.params=diff\ startX\ startY
+comment3.target=void\ placeMines(Difficulty,\ int,\ int)
+numComments=4

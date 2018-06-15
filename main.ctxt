@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=map
+comment1.target=boolean[][]\ cpy(boolean[][])
+comment2.params=a
+comment2.target=void\ print(boolean[][])
+comment3.params=fileName
+comment3.target=boolean[][]\ readIn(java.lang.String)
+comment4.params=map\ y\ x
+comment4.target=boolean[][]\ chk(boolean[][],\ int,\ int)
+comment5.params=fileName
+comment5.target=void\ main(java.lang.String)
+comment6.params=map
+comment6.target=int\ countStars(boolean[][])
+comment7.params=
+comment7.target=void\ makeImage()
+comment8.params=map\ y\ x\ height\ width
+comment8.target=boolean[][]\ drawStar(boolean[][],\ int,\ int,\ int,\ int)
+comment9.params=map\ y\ x\ a\ b\ k\ h
+comment9.target=boolean[][]\ drawPixel(boolean[][],\ int,\ int,\ double,\ double,\ int,\ int)
+numComments=10
